@@ -1,0 +1,56 @@
+.container {
+    height: 400px;
+    width: 400px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+
+.header {
+    height: 100px;
+    width: 370px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+
+.logo {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+
+.hamberger-button {
+    display: inline-block;
+}
+
+.line {
+    width: 50px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px;
+    margin-left: 140px;
+}
+
+.container1 {
+    height: 180px;
+    width: 370px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+.footer {
+    height: 50px;
+    width: 370px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    margin: 10px;
+}
